@@ -9,7 +9,7 @@ I'm a Computer Science Master's student at Rice University, with a Bachelor's de
 
 ## 💼 Experience
 
-I've been fortunate enough to gain experience at the [McGovern Institute for Brain Research, MIT](https://mcgovern.mit.edu/) and [Ningbo Xinqiang Network Technology Co., Ltd](http://www.nbxinqiang.com/), working on diverse projects from building a keypoint motion sequencing application for psychiatric disorders to creating a website for anonymous love letters.
+I've been fortunate enough to gain experience at the [McGovern Institute for Brain Research, MIT](https://mcgovern.mit.edu/) and Ningbo Xinqiang Network Technology Co., Ltd, working on diverse projects from building a keypoint motion sequencing application for psychiatric disorders to creating a website for anonymous love letters.
 
 ## 🛠️ Skills
 
