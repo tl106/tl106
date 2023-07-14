@@ -32,5 +32,5 @@ You can see more of my projects [here](https://github.com/tl106).
 
 ## 📫 Contact Me
 
-I'm always open to making new connections and working on interesting projects. Feel free to reach out to me on [LinkedIn](linkedin.com/in/TingLou0901) or [send me an email](mailto:TingLou.0901@gmail.com).
+I'm always open to making new connections and working on interesting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tinglou0901/) or [send me an email](mailto:TingLou.0901@gmail.com).
 
