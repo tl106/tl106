@@ -7,9 +7,11 @@ I'm a Computer Science Master's student at Rice University, with a Bachelor's de
 - Master's in Computer Science, Rice University (Expected Dec 2023)
 - Bachelor's in Computer Science, University of Nottingham Ningbo China (Sep 2018 – Jul 2022)
 
+
 ## 💼 Experience
 
-I've been fortunate enough to gain experience at the [McGovern Institute for Brain Research, MIT](https://mcgovern.mit.edu/) and Ningbo Xinqiang Network Technology Co., Ltd, working on diverse projects from building a keypoint motion sequencing application for psychiatric disorders to creating a website for anonymous love letters.
+I've been fortunate enough to gain experience at the [Feng Laboratory, MIT](https://fenglaboratory.org/) and [Ningbo Xinqiang Network Technology Co., Ltd](), working on diverse projects from building a keypoint motion sequencing application for psychiatric disorders to creating a website for anonymous love letters.
+
 
 ## 🛠️ Skills
 
@@ -22,10 +24,11 @@ I've been fortunate enough to gain experience at the [McGovern Institute for Bra
 
 I'm proud of the work I've done on a range of projects, such as:
 
-- [Ricebook Social Networking Website](link_to_repository) - A React-based Facebook-like social networking website.
-- [Container Yard Management using Deep Reinforcement Learning](link_to_repository) - A yard management system simulating activities and interaction of trucks and cranes.
+- [Ricebook Social Networking Website](https://ricebook106.surge.sh/) - A React-based Facebook-like social networking website.
+- [URL Shortener Service](https://team4newbie.surge.sh/) - A service that shortens URLs for easier sharing and management.
 
-You can see more of my projects [here](link_to_your_github).
+You can see more of my projects [here](https://github.com/tl106).
+
 
 ## 📫 Contact Me
 
